@@ -16,7 +16,6 @@ public class GameGLSurfaceView extends GLSurfaceView
     super(context, attrs);
   }
   
-  
   public void setRenderer(GameRenderer renderer)
   {
     setRenderer(renderer);
