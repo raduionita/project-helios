@@ -13,7 +13,6 @@ public class GameActivity extends Activity implements Game
   {
     super.onCreate(savedInstanceState);
     
-    
     setContentView(R.layout.game_activity);
   }
   
@@ -23,4 +22,28 @@ public class GameActivity extends Activity implements Game
     // getMenuInflater().inflate(R.menu.game, menu);
     return true;
   }
+	
+	@Override
+	public boolean onStart()
+	{
+	
+	}
+	
+	@Override
+	public boolean onPause()
+	{
+	
+	}
+	
+	@Override
+	public boolean onResume()
+	{
+		
+	}
+	
+	@Override
+	public boolean onDestroy()
+	{
+	
+	}
 }
