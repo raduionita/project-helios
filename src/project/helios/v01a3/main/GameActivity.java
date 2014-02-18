@@ -22,28 +22,28 @@ public class GameActivity extends Activity implements Game
     // getMenuInflater().inflate(R.menu.game, menu);
     return true;
   }
-	
-	@Override
-	public boolean onStart()
-	{
-	
-	}
-	
-	@Override
-	public boolean onPause()
-	{
-	
-	}
-	
-	@Override
-	public boolean onResume()
-	{
-		
-	}
-	
-	@Override
-	public boolean onDestroy()
-	{
-	
-	}
+  
+  @Override
+  public boolean onStart()
+  {
+  
+  }
+  
+  @Override
+  public boolean onPause()
+  {
+  
+  }
+  
+  @Override
+  public boolean onResume()
+  {
+    
+  }
+  
+  @Override
+  public boolean onDestroy()
+  {
+  
+  }
 }
