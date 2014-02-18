@@ -46,5 +46,10 @@ public class GameActivity extends Activity implements Game
   {
   
   }
+  
+  public void doSomethingElse() 
+  {
+    
+  }
 }
 
